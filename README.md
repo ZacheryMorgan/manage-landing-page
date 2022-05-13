@@ -1,4 +1,6 @@
-# Frontend Mentor - Manage landing page
+# (Frontend Mentor - Manage landing page)[https://zacherymorgan.github.io/manage-landing-page/]
+
+# Only mobile is done at the moment
 
 ![Design preview for the Manage landing page coding challenge](./design/desktop-preview.jpg)
 

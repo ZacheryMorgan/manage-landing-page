@@ -1,4 +1,4 @@
-# (Frontend Mentor - Manage landing page)[https://zacherymorgan.github.io/manage-landing-page/]
+# [Frontend Mentor - Manage landing page](https://zacherymorgan.github.io/manage-landing-page/)
 
 # Only mobile is done at the moment
 
